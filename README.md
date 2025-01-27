@@ -20,7 +20,7 @@ Fique à vontade para contribuir com melhorias, correções de bugs ou novos rec
 
 **Sales Report -** Nesta  Primeira Pagina do Relatorio com enfase a apresentação do relatório de vendas defindo datas das Vendas.
 
-![Primeira Pagina](https://github.com/Jaime830-collab/relatorio-gerencial/blob/main/desafio02-video01.mp4)
+![Primeira Pagina] https://github.com/Jaime830-collab/relatorio-gerencial/blob/main/desafio02-video01.mp4
 
 **Lucro Detalhado Report -** Nesta Segunda Pagina do Relatorio demos enfase a apresentação do relatório de Lucro Detalhado de acordo as datas definidas.
 

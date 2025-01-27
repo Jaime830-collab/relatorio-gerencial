@@ -22,12 +22,13 @@ Fique à vontade para contribuir com melhorias, correções de bugs ou novos rec
 
 ![Primeira Pagina] 
 
-https://github.com/Jaime830-collab/relatorio-gerencial/blob/main/desafio02-video01.mp4
+https://github.com/user-attachments/assets/dc885825-cb17-41cc-8724-27be63f26e22
 
 **Lucro Detalhado Report -** Nesta Segunda Pagina do Relatorio demos enfase a apresentação do relatório de Lucro Detalhado de acordo as datas definidas.
 
-![Segunda Pagina](https://github.com/Jaime830-collab/relatorio-gerencial/blob/main/desafio02-video02.mp4)
+![Segunda Pagina]
 
+https://github.com/user-attachments/assets/e7cb689e-b144-4e48-ba09-8718b7a9b37d
 
 ## :pushpin:Observações:
 
